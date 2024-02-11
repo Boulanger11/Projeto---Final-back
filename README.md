@@ -219,16 +219,14 @@ O projeto aborda as seguintes ferramentas:
       }
       ```
       
-[Repositorio Front-end](https://github.com/miguelbitz/integrador-frontend)
+[Repositorio Front-end](https://github.com/Boulanger11/Projeto-final---front.git)
 
 ## Documentação do Postman
 
-[Link da API no POSTMAN](https://documenter.getpostman.com/view/26594213/2s9YJgTLMV)
+[Link da API no POSTMAN]
 
 # 👤 Criado por:
 
-## Miguel Alves
+## Leonardo Boulanger
 
-![Logo Miguel](https://uploaddeimagens.com.br/images/004/544/373/original/imagem_pq.png?1689299009)
-
-[Linkedin](https://www.linkedin.com/in/miguelbitz/)
+[Linkedin](https://www.linkedin.com/in/leonardo-boulanger-465456181/)
